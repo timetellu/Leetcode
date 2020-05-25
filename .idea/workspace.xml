@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31c4efc5-1e68-4ca8-98cf-940b1bcd91bb" name="Default Changelist" comment="" />
+    <list default="true" id="31c4efc5-1e68-4ca8-98cf-940b1bcd91bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Arithmetic/src/Test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -76,6 +78,7 @@
       <updated>1590242163832</updated>
       <workItem from="1590242170392" duration="120000" />
       <workItem from="1590372401791" duration="589000" />
+      <workItem from="1590383017891" duration="900000" />
     </task>
     <servers />
   </component>
@@ -83,10 +86,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="31" key="#Project_Structure" timestamp="1590242288397">
+    <state x="208" y="31" key="#Project_Structure" timestamp="1590383373942">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1590242288397" />
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1590383373942" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1590373627897">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
